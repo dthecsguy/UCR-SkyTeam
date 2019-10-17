@@ -1,0 +1,12 @@
+Hello and Welcome to the UCR Skyteam github repository.
+
+This is where we will be sharing resources and assets to be used for the group's website. 
+
+Such as:
+	pics
+	videos
+	writings
+	etc
+	
+I will be using GitHub to make things more convenient and organized for myself.
+
